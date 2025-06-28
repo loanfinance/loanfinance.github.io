@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://loanfinance.github.io/sitemapx.xml
